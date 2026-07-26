@@ -103,5 +103,11 @@ I'm an 11th-grade student building toward a career in **Cybersecurity, Cloud Sec
 <p align="center">
   <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/assets/gray-lightBlue-fixed.svg" alt="Typing SVG" />
 </p>
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astrel-is/Astrel-is/output/snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Astrel-is/Astrel-is/output/snake.svg">
+</picture>
 
 <p align="center"><em>Code is never finished, it only gets patched. 🖤</em></p>
