@@ -1,0 +1,47 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="slash" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff1a3d"/>
+      <stop offset="100%" stop-color="#6b000f"/>
+    </linearGradient>
+    <pattern id="hazard" width="16" height="16" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <rect width="16" height="16" fill="#0a0a0a"/>
+      <rect width="8" height="16" fill="#e60023"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="260" fill="#0a0a0a"/>
+
+  <polygon points="233.7,-9.3 235.7,5.8 250.0,10.8 236.3,17.4 235.9,32.5 225.4,21.6 210.9,25.8 218.1,12.5 209.5,0.0 224.5,2.8" fill="#e60023" opacity="0.18"/>
+  <polygon points="223.5,15.5 221.8,37.5 240.6,49.0 219.2,54.2 214.0,75.6 202.5,56.8 180.5,58.5 194.8,41.7 186.4,21.4 206.7,29.8" fill="#e60023" opacity="0.16"/>
+  <polygon points="465.5,95.4 460.0,115.3 475.2,129.3 454.5,130.2 446.0,149.0 438.7,129.6 418.2,127.3 434.3,114.4 430.2,94.1 447.5,105.5" fill="#e60023" opacity="0.29"/>
+  <polygon points="22.7,55.8 23.2,74.4 40.0,82.4 22.4,88.6 20.0,107.1 8.6,92.3 -9.6,95.7 0.9,80.4 -8.0,64.0 9.9,69.3" fill="#8a0018" opacity="0.19"/>
+  <polygon points="695.5,37.4 695.2,48.4 704.9,53.7 694.4,56.8 692.3,67.7 686.1,58.6 675.1,60.0 681.8,51.2 677.1,41.3 687.5,45.0" fill="#e60023" opacity="0.24"/>
+  <polygon points="609.2,28.0 601.4,40.2 608.8,52.6 594.8,49.0 585.2,59.9 584.3,45.4 571.0,39.6 584.5,34.3 585.9,19.9 595.1,31.1" fill="#e60023" opacity="0.25"/>
+  <polygon points="567.2,10.7 560.4,32.4 576.6,48.4 553.9,48.6 543.7,68.9 536.5,47.4 514.0,44.0 532.2,30.4 528.5,8.0 547.0,21.2" fill="#e60023" opacity="0.28"/>
+
+  <rect x="0" y="0" width="190" height="16" fill="url(#hazard)"/>
+
+  <polygon points="650,0 700,0 900,260 850,260" fill="#3d0009"/>
+  <polygon points="700,0 1200,0 1200,260 900,260" fill="url(#slash)"/>
+  <line x1="760" y1="0" x2="960" y2="260" stroke="#ffffff" stroke-width="3" opacity="0.35"/>
+  <line x1="1000" y1="0" x2="1150" y2="260" stroke="#000000" stroke-width="2" opacity="0.4"/>
+
+  <polygon points="935.4,168.5 935.3,181.6 946.9,187.7 934.5,191.6 932.3,204.5 924.7,193.9 911.7,195.8 919.5,185.3 913.7,173.5 926.1,177.7" fill="#f5f5f5" opacity="0.35"/>
+  <polygon points="1125.9,195.5 1124.5,209.9 1136.7,217.6 1122.6,220.8 1118.9,234.8 1111.6,222.3 1097.1,223.2 1106.7,212.4 1101.4,198.9 1114.7,204.6" fill="#f5f5f5" opacity="0.3"/>
+  <polygon points="1159.2,97.6 1150.8,111.8 1159.7,125.8 1143.5,122.2 1133.0,135.0 1131.4,118.5 1116.0,112.4 1131.2,105.8 1132.2,89.3 1143.2,101.7" fill="#f5f5f5" opacity="0.25"/>
+
+  <g transform="translate(1050,130)" opacity="0.55">
+    <circle r="52" fill="none" stroke="#f5f5f5" stroke-width="1.5"/>
+    <polygon points="0,-40 34,26 -34,26" fill="none" stroke="#f5f5f5" stroke-width="1.5"/>
+    <line x1="0" y1="-52" x2="0" y2="52" stroke="#f5f5f5" stroke-width="1"/>
+    <circle r="4" fill="#f5f5f5"/>
+  </g>
+
+  <text x="52" y="130" font-family="Arial Black, Helvetica, sans-serif" font-weight="900" font-size="76" letter-spacing="3" fill="#f5f5f5">ASTRELIS</text>
+  <polygon points="54,148 400,148 388,160 42,160" fill="#e60023"/>
+
+  <text x="54" y="192" font-family="Consolas, Menlo, monospace" font-size="19" letter-spacing="2" fill="#e60023">CYBERSECURITY // CLOUD SECURITY // DEVSECOPS</text>
+
+  <text x="54" y="228" font-family="Consolas, Menlo, monospace" font-size="15" fill="#888888">&gt; whoami: astrelis_</text>
+</svg>
