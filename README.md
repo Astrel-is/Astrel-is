@@ -20,54 +20,54 @@
 -->
 
 <!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img width="100%" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/BEZEHEL.gif" alt="Fallout GIF"/>
+<a href="https://github.com/Astrel-is/Astrel-is/blob/main/fallout_grayscale%20(1).gif">
+  <img width="100%" src="https://github.com/Astrel-is/Astrel-is/blob/main/Astrel-is.gif" alt="Fallout GIF"/>
 </a>
 
 <!-- Greeting -->
-<!--<h2 align="center">❂ I am Joshua Thadi</h2>-->
+<!--<h2 align="center">❂ I am Astrelis</h2>-->
 
 
 
 <div align="center">
   <!-- Profile Views -->
   
-  <a href="https://github.com/JoshuaThadi" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+  <a href="https://github.com/Astrel-is" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Astrel-is&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
   
   <!--<img src="https://img.shields.io/badge/Profile%20Views-12,391-5e81ac?style=for-the-badge&logo=github" />-->
 
   <!-- Total Stars -->
-  <a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
-    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/joshuathadi?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+  <a href="https://github.com/Astrel-is?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/Astrel-is?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
   <!-- Followers -->
-  <a href="https://github.com/joshuathadi?tab=followers" target="_blank">
-    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/joshuathadi?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
+  <a href="https://github.com/Astrel-is?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/Astrel-is?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 
-  <a style="display:block;" href="https://github.com/joshuathadi?tab=repositories&q=&type=source&language=&sort=stargazers">
-    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/joshuathadi" /></a>
+  <a style="display:block;" href="https://github.com/Astrel-is?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/Astrel-is" /></a>
   
 </div>
 
-<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+<img align="left" alt="coding-gif" width="400" src="https://github.com/Astrel-is/Astrel-is/blob/main/transparent_gitgif.gif" />
 
 <!-- About Me -->
 <h3 align="left">💫 About Me</h3>
 <p>
-  🌱 I am currently working on and developing my programming skills.<br>
-  🔭 I worked on .NET Framework and have experience in ASP.NET MVC.<br>
-  💬 Skills I acquire in programming languages such as Python, SQL.<br>
-  ⚡ Interest in DS/AI/ML, Automation, Development/Engineering, etc.<br>
+  🌱 I am currently working on cybersecurity as an 11th grade student and as a penetration tester and cloud security and developing my skills.<br>
+  💬 Skills I acquire in programming languages such as Python, Javascript.<br>
 </p>
 
 <h3 align="left">🧲 Drop me a line:</h3>
 <div align="left">
-  <a href="mailto:thadijoshua@gmail.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/joshuathadi" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
-  <a href="https://bezehel-bashfolio.netlify.app/" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
-  <a href="https://open.spotify.com/playlist/7yQna62e2SGG0R5B4mwNJv?si=57a02b3ae990483d" target="_blank"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
-  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="37px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
+  <a href="mailto:alphambugua590@gmail.com"><img width="35px" src="https://github.com/Astrel-is/Astrel-is/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/Astrel-is" target="_blank"><img width="35px" src="https://github.com/Astrel-is/Astrel-is/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://bezehel-bashfolio.netlify.app/" target="_blank"><img width="35px" src="https://github.com/Astrel-is/Astrel-is/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img width="35px" src="https://github.com/Astrel-is/Astrel-is/blob/main/icons/linkedin-blue.png" alt="LinkedIn" /></a>
+  <a href="https://bezehel-bashfolio.netlify.app/" target="_blank"><img width="35px" src="https://github.com/Astrel-is/Astrel-is/blob/main/icons/11zon_cropped.png" alt="Portfolio" /></a>
+  <a href="https://open.spotify.com/playlist/7yQna62e2SGG0R5B4mwNJv?si=57a02b3ae990483d" target="_blank"><img width="35px" src="https://github.com/Astrel-is/Astrel-is/blob/main/icons/spotify-icon.png" alt="Spotify" /></a>
+  <a href="https://youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n&si=QA1tSQcT_Ogw5DjG" target="_blank"><img width="37px" src="https://github.com/Astrel-is/Astrel-is/blob/main/icons/youtube-red1.png" alt="YouTube" /></a>
 </div>
 
 <br>
@@ -76,10 +76,10 @@
 <!-- Languages & Tools -->
 <h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+  <img src="https://skillicons.dev/icons?i=Nmap,Wireshark,Amass,,gitlab,raspberrypi,react,nextjs,Burp Suite,SQLmap,OWASP ZAP,Metasploit" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma," /><br>
+  <img src="https://skillicons.dev/icons?i=bash,kali,arch,ubuntu,python,javascript,parrot os,blackarch" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,java,debian" /><br>
 </div>
 
 <br>
@@ -87,9 +87,9 @@
 <!-- GitHub Status -->
 <!--<h3 align="center">🌱 GitHub Status</h3>
 <div align="center">
-   <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" /> 
-<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="." />
+   <img width="398" src="https://github-readme-stats.vercel.app/api?username=Astrel-is&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" /> 
+<img width="398" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Astrel-is&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Astrel-is&theme=nord&hide_border=false" alt="." />
 </div>-->
 
 
@@ -98,12 +98,12 @@
 <div align="center">
   <h3>⭐️ Interesting Repositories</h3>
   <p align="center">
-<a href="https://github.com/JoshuaThadi/Wall-E-Desk"><img src="https://gh-card.dev/repos/JoshuaThadi/Wall-E-Desk.svg" width="400"></a>
-<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge"><img src="https://gh-card.dev/repos/JoshuaThadi/Books-Of-Knowledge.svg" width="400"></a>
-<a href="https://github.com/JoshuaThadi/Void-OSE"><img src="https://gh-card.dev/repos/JoshuaThadi/Void-OSE.svg" width="400"></a>
-<a href="https://github.com/JoshuaThadi/IDE-Cosmo"><img src="https://gh-card.dev/repos/JoshuaThadi/IDE-Cosmo.svg" width="400"></a>
-<a href="https://github.com/JoshuaThadi/PixelVault"><img src="https://gh-card.dev/repos/JoshuaThadi/PixelVault.svg" width="400"></a>
-<a href="https://github.com/JoshuaThadi/My-Projects"><img src="https://gh-card.dev/repos/JoshuaThadi/My-Projects.svg" width="400"></a>
+<a href="https://github.com/Astrel-is/Wall-E-Desk"><img src="https://gh-card.dev/repos/Astrel-is/Wall-E-Desk.svg" width="400"></a>
+<a href="https://github.com/Astrel-is/Books-Of-Knowledge"><img src="https://gh-card.dev/repos/Astrel-is/Books-Of-Knowledge.svg" width="400"></a>
+<a href="https://github.com/Astrel-is/Void-OSE"><img src="https://gh-card.dev/repos/Astrel-is/Void-OSE.svg" width="400"></a>
+<a href="https://github.com/Astrel-is/IDE-Cosmo"><img src="https://gh-card.dev/repos/Astrel-is/IDE-Cosmo.svg" width="400"></a>
+<a href="https://github.com/Astrel-is/PixelVault"><img src="https://gh-card.dev/repos/Astrel-is/PixelVault.svg" width="400"></a>
+<a href="https://github.com/Astrel-is/My-Projects"><img src="https://gh-card.dev/repos/Astrel-is/My-Projects.svg" width="400"></a>
   </p>
 </div>
 
