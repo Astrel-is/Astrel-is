@@ -1,113 +1,73 @@
-<p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Astrelis banner"/>
+<div align="center">
+
+<img src="https://your-banner-gif-url-here.gif" alt="Astrel-is banner" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=Astrel-is&label=Profile%20Views&color=e60023&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge"/>
+<a href="https://github.com/Astrel-is?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/Astrel-is?style=for-the-badge&label=Stars&color=e60023&logo=github" alt="Total Stars"/></a>
+<a href="https://github.com/Astrel-is?tab=followers"><img src="https://img.shields.io/github/followers/Astrel-is?style=for-the-badge&label=Followers&color=e60023&logo=github" alt="Followers"/></a>
+
+</div>
+
+<br/>
+
+### 💀 About Me
+
+<!-- ⚠️ replace with your own bullets if these drift -->
+🔩 Currently building toward a **DevSecOps / cybersecurity** career — Linux, networking, AWS, and security practice.  
+🐍 Sharpening skills in **Python** and **Go**.  
+🎥 Leading content creation & motion graphics for **[Vault Church](https://instagram.com/vault_church)** — mograph, trailers, edits.  
+🐧 Daily driver: **Arch Linux + Hyprland** on a ThinkPad X280 — Cyber Sigilism ricing is a lifestyle, not a hobby.  
+⚡ Into pentesting, BlackArch, anime (JJK / Black Clover / Bleach), and Genshin Impact.
+
+<br/>
+
+### 🩸 Drop me a line
+
+<p align="left">
+<a href="mailto:your_email_here"><img src="https://your-icon-host/gmail_new_logo.png" width="45" alt="Gmail"/></a>
+<a href="https://github.com/Astrel-is"><img src="https://your-icon-host/github-icon.png" width="45" alt="GitHub"/></a>
+<a href="https://instagram.com/vault_church"><img src="https://your-icon-host/instagram-icon.png" width="45" alt="Vault Church Instagram"/></a>
+<!-- add LinkedIn / Discord / whatever else you actually check -->
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Astrel-is&label=Profile%20Views&style=for-the-badge&color=e60023&labelColor=0a0a0a" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Astrel-is?label=Followers&style=for-the-badge&color=e60023&labelColor=0a0a0a" alt="followers" />
-  <img src="https://img.shields.io/badge/status-hacking%20the%20mainframe-e60023?style=for-the-badge&labelColor=0a0a0a" />
-</p>
+<br/>
 
----
+### 🩻 Languages & Tools
 
-### 🖤 Who Am I
+<div align="center">
 
-I'm an 11th-grade student building toward a career in **Cybersecurity, Cloud Security, and DevSecOps**. My focus is split across three lanes: securing cloud infrastructure, hardening systems from the ground up, and building clean, functional websites. I work daily in Linux, and I'm sharpening my offensive-security chops alongside solid software fundamentals in **Python** and **Go**.
+<img src="https://skillicons.dev/icons?i=python,go,bash,arch,linux,cpp&theme=dark" alt="languages"/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,figma&theme=dark" alt="tools"/><br/>
+<img src="https://skillicons.dev/icons?i=aws,kali,vercel,postgres,prisma,vite&theme=dark" alt="platforms"/>
 
-- 🔐 Focused on: Cloud Security, DevSecOps pipelines, and offensive security fundamentals
-- 🌐 Also building: web applications and interfaces from scratch
-- 🌱 Currently learning: Go, container security, AWS security practices
-- 🎯 Goal: land a DevSecOps role — Linux → Cloud → CI/CD → Security, fully integrated
+</div>
 
----
+<br/>
 
-### 🔗 Connect with Me
-<p>
-<img src="https://img.shields.io/badge/-Gmail-e60023?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-GitHub-e60023?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-Discord-e60023?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0a0a" />
-</p>
+### 🕸️ Interesting Repositories
 
----
+<div align="center">
 
-### 🛠️ Tech Stack
+<a href="https://github.com/Astrel-is/v0-lost-and-found-app"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Astrel-is&repo=v0-lost-and-found-app&theme=dark" alt="lost-and-found-app"/></a>
+<a href="https://github.com/Astrel-is/Astrel-is"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Astrel-is&repo=Astrel-is&theme=dark" alt="profile"/></a>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,go,bash,javascript,typescript,html,css,react,nodejs,docker,kubernetes,aws,terraform,nginx,githubactions,git,linux,vscode,figma&theme=dark" />
-</p>
+</div>
 
-**Systems**
-<p>
-<img src="https://img.shields.io/badge/-Arch%20Linux-e60023?style=flat-square&logo=arch-linux&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-Kali%20Linux-e60023?style=flat-square&logo=kalilinux&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-BlackArch-e60023?style=flat-square&logo=archlinux&logoColor=white&labelColor=0a0a0a" />
-</p>
+<br/>
 
-**Security & DevSecOps**
-<p>
-<img src="https://img.shields.io/badge/-OWASP-e60023?style=flat-square&logo=owasp&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-Metasploit-e60023?style=flat-square&logo=metasploit&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-Burp%20Suite-e60023?style=flat-square&logo=burpsuite&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-Wireshark-e60023?style=flat-square&logo=wireshark&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-Nmap-e60023?style=flat-square&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-Shodan-e60023?style=flat-square&logo=shodan&logoColor=white&labelColor=0a0a0a" />
-<img src="https://img.shields.io/badge/-TryHackMe-e60023?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0a0a0a" />
-</p>
+### ☠️ GitHub Activity
 
----
+<div align="center">
 
-### 📊 GitHub Analytics
+<!-- keep your existing pacman-contribution-graph + snk snake action outputs here -->
+<img src="https://raw.githubusercontent.com/Astrel-is/Astrel-is/output/pacman-contribution-graph.svg" alt="pacman contribution graph"/>
+<br/>
+<img src="https://raw.githubusercontent.com/Astrel-is/Astrel-is/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Astrel-is&show_icons=true&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=e60023&icon_color=e60023&text_color=f5f5f5&border_color=e60023" alt="stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astrel-is&hide_border=true&background=0A0A0A&ring=E60023&fire=E60023&currStreakLabel=E60023&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=888888" alt="streak" width="48%"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Astrel-is&hide_border=true&bg_color=0a0a0a&color=e60023&line=e60023&point=f5f5f5&area=true&area_color=e60023" alt="activity graph" width="97%"/>
-</p>
+<br/>
 
----
-
-<p align="center">
-  <img src="./assets/hero_strip.svg" width="100%" alt="Take back the network"/>
-</p>
-
----
-
-### 🕹️ Contribution Graph — Arcade Mode
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astrel-is/Astrel-is/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Astrel-is/Astrel-is/output/pacman-contribution-graph.svg">
-</picture>
-
-<img alt="breakout contribution graph" src="https://raw.githubusercontent.com/Astrel-is/Astrel-is/output/breakout-contribution-graph.svg">
-
-<img alt="galaga contribution graph" src="https://raw.githubusercontent.com/Astrel-is/Astrel-is/output/galaga-contribution-graph.svg">
-
-<p align="center"><em>Auto-updates daily via GitHub Actions — see setup note below if these are blank.</em></p>
-
----
-
-### 📌 Pinned Focus Areas
-
-| Project | Stack | Status |
-|---|---|---|
-| Kali/Pentest Toolkit | Kali,Cloud security,Devsecops, Bash | 🔧 In progress |
-| DevSecOps Learning Track | Docker, K8s, AWS, CI/CD | 🌱 Ongoing |
-| Cloud Security Notes & Labs | AWS, Terraform, OWASP | 🌱 Ongoing |
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/assets/gray-lightBlue-fixed.svg" alt="Typing SVG" />
-</p>
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Astrel-is/Astrel-is/output/snake-dark.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Astrel-is/Astrel-is/output/snake.svg">
-</picture>
-
-<p align="center"><em>Code is never finished, it only gets patched. 🖤</em></p>
+<div align="center">
+<sub>⚠️ Cyber Sigilism build — <b>@Astrel-is</b></sub>
+</div>
